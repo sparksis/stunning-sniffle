@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: stunning-sniffle
+  description: "stunning-sniffle"
+  annotations:
+    github.com/project-slug: sparksis/stunning-sniffle
+spec:
+  type: service
+  lifecycle: experimental
+  owner: sparksis
